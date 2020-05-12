@@ -26,6 +26,8 @@ s.source = { :git => "https://github.com/sapnbansal13/CommonUsedFramework.git",
 # 7
 s.framework = "UIKit"
 s.dependency 'Alamofire', '~> 4.7'
+s.dependency 'NVActivityIndicatorView'
+s.dependency 'Parchment'
 s.dependency 'MBProgressHUD', '~> 1.1.0'
 
 # 8
