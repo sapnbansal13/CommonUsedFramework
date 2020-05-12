@@ -26,15 +26,13 @@ s.source = { :git => "https://github.com/sapnbansal13/CommonUsedFramework.git",
 # 7
 s.framework = "UIKit"
 s.dependency 'Alamofire', '~> 4.7'
-s.dependency 'NVActivityIndicatorView'
-s.dependency 'Parchment'
-s.dependency 'MBProgressHUD', '~> 1.1.0'
+
 
 # 8
-s.source_files = "DemoFramework/**/*.{swift}"
+s.source_files = "CommonUsedFramework/**/*.{swift}"
 
 # 9
-s.resources = "DemoFramework/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
+s.resources = "CommonUsedFramework/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
 
 # 10
 s.swift_version = "4.2"
