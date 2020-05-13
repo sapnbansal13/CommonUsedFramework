@@ -28,6 +28,6 @@ s.dependency 'Alamofire', '~> 4.7'
 
 
 # 8
-s.source_files = "CommonUsedFramework/DemoFramework.swift"
+s.source_files = "CommonUsedFramework/**/*.swift"
 
 end
